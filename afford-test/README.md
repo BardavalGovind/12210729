@@ -11,12 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Output Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### URL Shortener Form
+![Form Screenshot](./afford-test/screenshots/output1.png)
 
-### `npm run build`
+### Shortened URL Result
+![Short URL Result](./afford-test/screenshots/output2.png)
