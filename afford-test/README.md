@@ -12,10 +12,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-## Output Screenshots
+## Output Screenshots present in screenshots folder
 
-### URL Shortener Form
-![Form Screenshot](./afford-test/screenshots/output1.png)
-
-### Shortened URL Result
-![Short URL Result](./afford-test/screenshots/output2.png)
