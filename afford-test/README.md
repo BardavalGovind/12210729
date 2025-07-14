@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Output Screenshots
 
 ### URL Shortener Form
-![Form Screenshot](./screenshots/output1.png)
+![Form Screenshot](./afford-test/screenshots/output1.png)
 
 ### Shortened URL Result
-![Short URL Result](./screenshots/output2.png)
+![Short URL Result](./afford-test/screenshots/output2.png)
